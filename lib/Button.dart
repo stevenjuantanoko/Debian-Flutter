@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'MainPage.dart';
+import 'mainPage.dart';
 
 class Button extends StatelessWidget {
   void DataPass(BuildContext context) {

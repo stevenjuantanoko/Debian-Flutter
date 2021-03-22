@@ -6,7 +6,7 @@ import 'Header.dart';
 import 'InputWrapper.dart';
 import 'package:http/http.dart' as http;
 
-mixin MainPage implements StatefulWidget {
+class MainPage extends StatefulWidget {
   @override
   _MainPageState createState() => _MainPageState();
 }
